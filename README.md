@@ -4,7 +4,7 @@
  
  ## I have completed graduation in Mathematics(Honrs) from University Of Delhi.
  
- ## I’m currently doing M.Sc(Data Science) from Amity University,Rajasthan.
+ ## I have completed M.Sc(Data Science) from Amity University,Rajasthan.
  
  ## I’m looking forward to become a data scientist.
  
